@@ -14,6 +14,7 @@ function yum() {
 # Add installation packages ...
 addpkgs="
  qemu-kvm qemu-img
+ libvirt
 "
 
 if [[ -n "$(echo ${addpkgs})" ]]; then
