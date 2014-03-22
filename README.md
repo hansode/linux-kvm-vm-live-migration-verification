@@ -14,6 +14,11 @@ Getting Started
 $ vagrant up
 ```
 
+References
+----------
+
++ http://www.linux-kvm.org/page/Migration
+
 License
 -------
 
